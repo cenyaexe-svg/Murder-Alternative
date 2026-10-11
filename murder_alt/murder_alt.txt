@@ -1,0 +1,12 @@
+"murder_alt"
+{
+	"base"		"sandbox"
+	"title"		"Murder Alt"
+	"maps"		"^mu_|^gm_|^cs_|^de_|^ttt_|^rp_|^zs_|^dm_|^zcity_|^hg_"
+	"menusystem"	"1"
+	"workshopid"	""
+
+	"settings"
+	{
+	}
+}
